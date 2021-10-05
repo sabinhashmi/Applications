@@ -1,2 +1,0 @@
-# StartUp
-Start Up Projects
